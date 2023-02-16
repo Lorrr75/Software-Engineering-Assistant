@@ -1,2 +1,2 @@
 # Software-Engineering-Assistant
-Programma in grado di aiutare i Software Engineering a creare il software
+Programma in grado di aiutare il Software Engineering a creare qualunque tipo di software
