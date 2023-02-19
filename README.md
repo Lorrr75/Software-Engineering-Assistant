@@ -13,7 +13,7 @@ README_ENG.md - information in English (coming soon...)
 
 README_GER.md
 
-README_FRA.md
+README_FRA.md - information in french (coming soon...)
 
 README_SPA.md
 
