@@ -15,5 +15,5 @@ README_GER.md - information in German (coming soon...)
 
 README_FRA.md - information in French (coming soon...)
 
-README_SPA.md
+README_SPA.md - information in Spanish (coming soon...)
 
