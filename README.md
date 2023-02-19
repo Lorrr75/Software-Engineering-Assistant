@@ -11,9 +11,9 @@ README_ITA.md - information in Italian.
 
 README_ENG.md - information in English (coming soon...)
 
-README_GER.md
+README_GER.md - information in German (coming soon...)
 
-README_FRA.md - information in french (coming soon...)
+README_FRA.md - information in French (coming soon...)
 
 README_SPA.md
 
