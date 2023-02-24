@@ -7,3 +7,5 @@ Mi sono trovato nella situazione di dover fare una software da zero per in impia
 Alla fine ho portato a temine il mio compito. E questo mi ha fatto venire voglia di creare un Assistente che aiutasse chiunque abbia necessità di creare un software.
 
 Questo è il percorso che sto usando per arrivare a uno strumento completo.
+
+Attenzione, durante lo studio, alcune parti verranno saltate e riprese in seguito.
