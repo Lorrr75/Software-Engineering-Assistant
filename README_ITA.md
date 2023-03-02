@@ -9,3 +9,4 @@ Alla fine ho portato a temine il mio compito. E questo mi ha fatto venire voglia
 Questo è il percorso che sto usando per arrivare a uno strumento completo.
 
 Attenzione, durante lo studio, alcune parti verranno saltate e riprese in seguito.
+Questo è il percorso che sto intraprendendo per arrivare a uno strumento completo.
