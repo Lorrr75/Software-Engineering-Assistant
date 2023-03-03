@@ -9,7 +9,11 @@ Information files:
 
 README_ITA.md - information in Italian.
 
+<<<<<<< Updated upstream
 README_ENG.md - information in English
+=======
+README_ENG.md - information in English.
+>>>>>>> Stashed changes
 
 README_GER.md - information in German (coming soon...)
 
