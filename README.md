@@ -1,4 +1,5 @@
 # Software-Engineering-Assistant
+
 Program able to help Software Engineering to create any type of software.
 
 In this file I will summarize where to find the contents of the directory.
@@ -9,11 +10,7 @@ Information files:
 
 README_ITA.md - information in Italian.
 
-<<<<<<< Updated upstream
 README_ENG.md - information in English
-=======
-README_ENG.md - information in English.
->>>>>>> Stashed changes
 
 README_GER.md - information in German (coming soon...)
 
